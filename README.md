@@ -1,11 +1,11 @@
 # Hi, I'm Anil Reddy 👋
 
-## 🚀 About Me
+## About Me
 A passionate career transitioner moving into DevOps Engineering.
 Background in recruitment technology at a product-based SaaS company,
 now building real DevOps skills through hands-on projects.
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 *Containerisation:* Docker, Kubernetes, Minikube
 *CI/CD:* Jenkins, Pipeline Automation
@@ -26,6 +26,6 @@ now building real DevOps skills through hands-on projects.
 ## 📍 Hyderabad, Telangana,India.
 
 
-## 📫 Connect With Me
+## Connect With Me
 - Phone No: 9963345514
 - Email: anilreddy010910@gmail.com
